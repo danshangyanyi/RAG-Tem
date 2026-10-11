@@ -10,7 +10,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from datetime import datetime
 
 
-os.environ["DASHSCOPE_API_KEY"] = "sk-ws-H.EDLLPXI.hq1v.MEYCIQCwfCKQ8l8XdMFfohVIg0IveFN_ngH3r4TXQeOR8QFheAIhANozNH2MSaOuuBAAHw1ct_Vqs2O7QPYo-UjCFINIXhoF"
+os.environ["DASHSCOPE_API_KEY"] = "--"
 
 def check_md5(md5_str: str):
     '''
